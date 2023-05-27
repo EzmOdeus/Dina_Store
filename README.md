@@ -1,4 +1,4 @@
-# profile_flutter
+# Dina_Store
 
 A new Flutter project.
 
